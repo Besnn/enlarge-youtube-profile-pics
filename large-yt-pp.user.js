@@ -9,6 +9,5 @@ var imageURL = window.location.toString();
 var regex = /=.*/;
 
 window.addEventListener('load', function() {
-    window.location = imageURL.replace(regex,"");
-		window.setTimeout(3);
+		window.location = imageURL.replace(regex,"");
 	}, false);
