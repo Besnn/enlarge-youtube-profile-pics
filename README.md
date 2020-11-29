@@ -1,4 +1,4 @@
-# large-yt-profile-pics
+# enlarge-youtube-profile-pics
 Make YouTube profile pictures automatically larger when opened in a new tab
 
 ## How to install
