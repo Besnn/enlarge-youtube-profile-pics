@@ -1,5 +1,5 @@
 # enlarge-youtube-profile-pics
-Make YouTube profile pictures automatically larger when opened in a new tab
+Enabling your stalker fantasies since [$yes](https://sites.google.com/site/whydidyouclickonthelink/)
 
 ## How to install
 Just paste the script into the Userscript Manager of your choice  
