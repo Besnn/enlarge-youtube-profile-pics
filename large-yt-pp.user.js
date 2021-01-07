@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name     Large YT Profile Pics
+// @author   Besnn
 // @version  1
 // @match    *://yt3.ggpht.com/*
 // @grant    none
