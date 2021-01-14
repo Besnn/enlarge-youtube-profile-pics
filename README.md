@@ -7,6 +7,6 @@ Just paste the script into the Userscript Manager of your choice
 ## Demo
 ### Take, for example, Justin Y.'s Profile Pic
 #### Without Script:
-![without](withoutscript.png)
+![without](/img/withoutscript.png)
 #### With Script:
-![with](withscript.png)
+![with](/img/withscript.png)
