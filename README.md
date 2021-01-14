@@ -10,3 +10,4 @@ Just paste the script into the Userscript Manager of your choice
 ![without](/img/withoutscript.png)
 #### With Script:
 ![with](/img/withscript.png)
+
